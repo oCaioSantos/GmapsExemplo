@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GMaps</string>
+    <string name="label_service_name">Digite o serviço que quer buscar</string>
+    <string name="btn_search">Buscar</string>
+    <string name="hint_search_nearby">Pesquise por lugares na sua região</string>
+    <string name="turn_on_gps">Ative sua localização</string>
+    <string name="api_key_not_found">Chave da API não encontrada</string>
+    <string name="gps_off">Localização desligada</string>
+    <string name="network_off">Sem acesso à internet</string>
+    <string name="turn_on_network">Ative o acesso à internet</string>
+    <string name="gps_required">A localização é obrigatória</string>
+    <string name="network_required">O acesso á internet é obrigatório</string>
+</resources>
