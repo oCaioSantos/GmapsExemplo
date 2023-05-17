@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
         Códigos que esperamos passar na requisição
         de permissão;
 
-        Caso a requisição acione o callback (ver linha 233)
+        Caso a requisição acione o callback (ver linha 241)
         e retorne na propriedade "requestCode" esse valor,
         quer dizer que o usuário autorizou.
     * */
@@ -249,7 +249,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
             Detalhe importante: Sabemos se o usuário respondeu afirmativamente
             para as permissões solicitadas quando o sistema nos retorna um
             requestCode igual ao que passamos lá na chamada desse recurso;
-            -> Ver linha 63
+            -> Ver linha 65
          */
         when (requestCode) {
             REQUEST_LOCATION_PERMISSIONS_CODE -> getActualLocation()
