@@ -1,4 +1,5 @@
-# Aplicativo de referência para Mapa (Google Maps)
+# Aplicativo de referência para Mapa (Google Maps) ![Linguagem](https://img.shields.io/badge/Linguagem-Kotlin-blue) ![Versão Mínima do Android](https://img.shields.io/badge/Stack-Android-brightgreen)
+
 
 Este é um aplicativo de exemplo que demonstra como usar o Google Maps e a busca próxima a locais. Ele permite aos usuários buscar lugares próximos usando a API do Google Maps.
 
